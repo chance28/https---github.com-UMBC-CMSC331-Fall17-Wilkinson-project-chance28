@@ -1,0 +1,2 @@
+i choose java for the first part because it made it easy to simulate the game using object oriented programming.
+i choose lua for the second part because it was easyest to read a file with.
